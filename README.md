@@ -1,4 +1,4 @@
-# Awesome Free ChatGPT
+#  Free ChatGPT
 
 🚀 List of free ChatGPT(<https://chat.openai.com/>) mirror sites and more free resources, continuously updated.
 
