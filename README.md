@@ -11,7 +11,7 @@ The websites listed here are from the internet, please do not enter any personal
 - [Report invalid site]()             
 - More(todo)   
        
-If you find this project useful, don't forget to star 🌟. Your support is my motivation to move forward.
+If you find this project useful, don't forget to star 🌟. Your support is my motivation to move forward. 
 
 ## Table of Content
 <!-- TOC -->
