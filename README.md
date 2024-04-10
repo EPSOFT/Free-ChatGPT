@@ -5,7 +5,7 @@
   
 The websites listed here are from the internet, please do not enter any personal sensitive information on these websites.
                                      
-🌈 Welcome Contributions                                                           
+🌈 Welcome Contributions                                                            
                                                                                    
 - [Add site]()                                                                     
 - [Report invalid site]()                                         
