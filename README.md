@@ -13,7 +13,7 @@ The websites listed here are from the internet, please do not enter any personal
            
 If you find this project useful, don't forget to star 🌟. Your support is my motivation to move forward. 
 
-## Table of Content  
+## Table of Content
 <!-- TOC -->  
 * [Awesome Free ChatGPT](#awesome-free-chatgpt)
   * [Table of Content](#table-of-content)
